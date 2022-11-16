@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 988 1130" width="988" height="1130">
+	<title>logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="696.5" y1="118" x2="120.5" y2="1010" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#acb4ff" stop-opacity=".4"/>
+			<stop offset="1" stop-color="#000c7b"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: #060606;stroke-width: 100 } 
+		.s1 { fill: #fbfbff } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m705 68h50v50 360.5 39.9l143.1 72.5 27.4 13.9v30.7 375 50h-50-755.5-50v-50-892.5-50h50z"/>
+	<path id="Layer" class="s1" d="m308.5 180c88.4 0 160 71.6 160 160 0 88.4-71.6 160-160 160-88.4 0-160-71.6-160-160 0-88.4 71.6-160 160-160zm22.9 140.6l448 529-45.8 38.8-448-529z"/>
+	<path id="Layer" class="s2" d="m391 935c-78.2 0-141.5-63.3-141.5-141.5 0-78.2 63.3-141.5 141.5-141.5 78.2 0 141.5 63.3 141.5 141.5 0 78.2-63.3 141.5-141.5 141.5z"/>
+</svg>
