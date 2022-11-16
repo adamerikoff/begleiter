@@ -1,2 +1,2 @@
 # begleiter-NachrichtensofortversandApplikation
-Erlang backed messaging application with IOS, Android and Web clients.
+Erlang backed messaging application with front-end clients: IOS, Android and Web.
